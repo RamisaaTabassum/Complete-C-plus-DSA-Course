@@ -1,2 +1,2 @@
-# Complete-C-DSA-Course
+# Complete-C-plus-DSA-Course
 Apna college
