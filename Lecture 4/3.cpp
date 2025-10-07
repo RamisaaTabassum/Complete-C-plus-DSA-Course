@@ -49,6 +49,34 @@ int main(){
     cout<<endl;
   }
    
+
+  for(int i=0;i<n;i++){
+    
+    for(int j=i+1;j>0;j--){
+      cout<<j<<" ";
+    }
+    cout<<endl;
+  }
+
+   int numb=1;
+    for(int i=0;i<n;i++){
+   
+    for(int j=0;j<i+1;j++){
+      cout<<numb<<" ";
+      numb++;
+    }
+    cout<<endl;
+  }
+char cha='A';
+  for(int i=0;i<n;i++){
+    for(int j=i+1;j>0;j--){
+      cout<<cha<<" ";
+      cha++;
+    }
+    cout<<endl;
+  }
+
+
    
    
 
